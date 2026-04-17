@@ -10,3 +10,6 @@ This is a simple Flask application containerized using Docker.
 
 ## Output:
 http://localhost:5000
+## output screenshot
+![output](output.png)
+
